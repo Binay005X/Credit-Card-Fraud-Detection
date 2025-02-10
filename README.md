@@ -28,6 +28,8 @@ In this project we will detect fraudulent credit card transactions with the help
    
 2. Random Forest
 
+3. XGBoost 
+
   # For data preprocessing 
   
   1. Used Power Transformer to mitigate skewness
