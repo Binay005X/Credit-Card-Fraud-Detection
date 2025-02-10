@@ -32,7 +32,7 @@ In this project we will detect fraudulent credit card transactions with the help
   
   1. Used Power Transformer to mitigate skewness
      
-  2. Used SMOTE to balance the Class
+  2. Used SMOTE to balance the Class imbalance
 
 # Conclusion 
 
